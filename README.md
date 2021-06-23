@@ -1,3 +1,3 @@
 # Udemy-food
 
-Учебный проект с Udemy
+Учебный проект с Udemy (JS)
